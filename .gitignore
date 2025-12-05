@@ -1,0 +1,7 @@
+train/
+test/
+valid/
+__pycache__/
+*.pyc
+.vscode/
+*.ipynb
